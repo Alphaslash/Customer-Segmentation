@@ -73,5 +73,3 @@ This project is part of my journey into Data Analytics.
 Feel free to explore the app, give feedback, or connect on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE_URL)
 
 ---
-
-© 2025 Your Name. All rights reserved.
